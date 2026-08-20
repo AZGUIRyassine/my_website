@@ -97,10 +97,16 @@
 
   const phrases = [
     'Full-Stack Developer',
+    'AI & Machine Learning Engineer',
+    'Cybersecurity Specialist',
+    'Network Security Engineer',
+    'Threat Hunter & Pentester',
+    'Cloud Infrastructure Architect'
     'Open Source Enthusiast',
     'UI/UX Creator',
     'Problem Solver',
     'Code Craftsman',
+     
   ];
 
   let phraseIndex = 0;
