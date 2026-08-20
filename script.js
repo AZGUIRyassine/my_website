@@ -108,7 +108,7 @@
      
   ];
 
-  let phraseIndex = 0;
+  let phraseIndex = 1;
   let charIndex = 0;
   let isDeleting = false;
   let pauseTimer = null;
