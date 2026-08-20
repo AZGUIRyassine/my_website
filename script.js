@@ -103,9 +103,8 @@
     'Threat Hunter & Pentester',
     'Cloud Infrastructure Architect'
     'Open Source Enthusiast',
-    'UI/UX Creator',
     'Problem Solver',
-    'Code Craftsman',
+   
      
   ];
 
